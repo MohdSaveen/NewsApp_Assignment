@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp Assignment</string>
+    <string name="apple_admits_slowing_down_older_iphones">Apple admits slowing down older iPhones</string>
+    <string name="desc">Customers have long suspected iPhones slow down over time.Now, Apple has confirmed some models do</string>
+    <string name="title">Apple admits slowing down older iPhones</string>
+    <string name="countItems">1</string>
+    <string name="timeText">Time(null)</string>
+    <string name="sourceText">TextView</string>
+    <string name="descriptionText">TextView</string>
+    <string name="titleText">TextView</string>
+    <string name="newsImage">newsImage</string>
+</resources>
